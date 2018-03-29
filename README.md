@@ -1,10 +1,18 @@
-DRUBNK PLAYER
-DESCRIPTION
+# **DRUBNK PLAYER**
+## DESCRIPTION
 	nncvnc
 
-DEPENDANCE
-	cvbncvbncvb
-COMPILATION
-	cvbncvbncvbnc
-UILASATION
-	cvbnvncvbncv
+## DEPENDANCE
+- cvbncvbncvb
+- dfgdfsdf
+- sdfgsdfg
+## COMPILATION
+cvbncvbncvbnc
+``` dfsgdfgsd fgdfgsdf gs dfgsdfg ```
+## UILASATION
+cvbnvncvbncv
+```
+sfddf
+sdfgsd
+sdfgsd
+``` 
