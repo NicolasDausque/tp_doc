@@ -1,7 +1,6 @@
 # **DRUBNK PLAYER**
 ## DESCRIPTION
-	nncvnc
-
+nncvnc
 ## DEPENDANCE
 - cvbncvbncvb
 - dfgdfsdf
@@ -15,4 +14,7 @@ cvbnvncvbncv
 sfddf
 sdfgsd
 sdfgsd
-``` 
+```
+
+![DK Logo](drunk_player_gui.png)
+Format: ![Alt Text](url)
